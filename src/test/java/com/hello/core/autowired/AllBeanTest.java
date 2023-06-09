@@ -16,7 +16,7 @@ import java.util.Map;
 public class AllBeanTest {
 
     /**
-     * GPG test
+     * GPG test Add
      */
     @Test
     void findAllBean() {
