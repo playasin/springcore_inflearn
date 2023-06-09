@@ -15,6 +15,9 @@ import java.util.Map;
 
 public class AllBeanTest {
 
+    /**
+     * GPG test Add After GPG Signing
+     */
     @Test
     void findAllBean() {
         AnnotationConfigApplicationContext ac = new AnnotationConfigApplicationContext(AutoAppConfig.class, DiscountService.class);
